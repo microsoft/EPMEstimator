@@ -5,4 +5,4 @@ These estimators help estimate indictive price for onboarding your cloud service
 - [EPM Estimator for Azure](https://github.com/microsoft/EPMPriceEstimator/raw/main/CloudKnox%20Pricing%20Estimator%20for%20Azure.xlsx)
 - [EPM Estimator for GCP](https://github.com/microsoft/EPMPriceEstimator/raw/main/CloudKnox%20Pricing%20Estimator%20for%20GCP.xlsx)
 
-## Note that the these calculators only provide a ballpark estimate based on list pricing. Please talk to your Microsoft account team for price / discounts applicable to you.
+### Note that the these calculators only provide a ballpark estimate based on list pricing. Please talk to your Microsoft account team for price / discounts applicable to you.
