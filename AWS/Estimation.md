@@ -4,7 +4,7 @@ This page explains how to use the estimate the cost of using Permissions Managem
 ## Export resource list
 The resources in AWS can be counted in two ways:
 
-### Use AWS Tag Editor
+### Option 1: Use AWS Tag Editor
 1. Open AWS Tag Editor: [https://console.aws.amazon.com/resource-groups/tag-editor](https://console.aws.amazon.com/resource-groups/tag-editor)
 2. Update filters to search for All Resource Types in All Regions
 ![Tag Editor Settings](https://github.com/microsoft/EPMEstimator/blob/main/AWS/TagEditorFilters.png)
@@ -15,7 +15,7 @@ The resources in AWS can be counted in two ways:
 > **Note:** This option does not use an indexed resource list and will take a while to complete.
 
 
-###  Use AWS Resouce Explorer
+###  Option 2: Use AWS Resouce Explorer
 If you are estimating for only handful of selected accounts and have enabled AWS resource explorer, you can use this option. 
 1. Open the Resource Search page by going to the below URL: [Resource search page](https://resource-explorer.console.aws.amazon.com/resource-explorer/home)
 2. Update search settings by going to (1) and update to (2) Show ARN, and (3) Show 100 resources per page.
