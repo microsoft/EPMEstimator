@@ -31,12 +31,16 @@ If you are estimating for only handful of selected accounts and have enabled AWS
 
 ## Import Results
 * Download the [AWS Estimation Template](https://github.com/microsoft/EPMEstimator/raw/main/EPM%20Pricing%20Estimator%20for%20AWS.xlsx) (You can right-click <-- this link and click 'Save Link As' to download)
-* Open the 'Query Export' sheet in the downloaded file. 
+### Option 1: For export from Tag Editor
+* Open the 'Tag Editor Export' sheet in the downloaded file. 
+* Open the exported CSV file in excel and Paste the it's contents in Columns A to J of downloaded template
+### Option 2: For export from Resource Explorer
+* Open the 'Resource Explorer Export' sheet in the downloaded file. 
 * Open the exported CSV file in excel and Paste the it's contents in Columns A to H of downloaded template
 
 ## Calculate Ballpark Price Estimate
 * Go to 'Resources and Pricing' sheet. 
 * Right-click one of the tables and click 'Refresh'. 
-* See the pricing Estimate in 'Resources and Pricing' sheet.
+* See the Price Estimate in 'Resources and Pricing' sheet.
 
   
