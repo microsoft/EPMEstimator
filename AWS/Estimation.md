@@ -26,7 +26,7 @@ If you are estimating for only handful of selected accounts and have enabled AWS
   
 > **Note:**
 > * It works off an indexed list and it manifold faster than Tag Editor
-> * Resource Explorer only supports Account-wise search and supports ^#^#^#% of billable resources. [Supported resource types](https://docs.aws.amazon.com/resource-explorer/latest/userguide/supported-resource-types.html?icmp=docs_re_console_supported-resource-types)
+> * Resource Explorer only supports Account-wise search and supports a percentage of [billable resources](https://learn.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/product-data-billable-resources). See here for [Supported resource types](https://docs.aws.amazon.com/resource-explorer/latest/userguide/supported-resource-types.html?icmp=docs_re_console_supported-resource-types) by AWS Resource Explorer.
 > * Resource explorer can be enabled and used at no additional cost. [Enable here](https://resource-explorer.console.aws.amazon.com/resource-explorer/home?region=us-east-2#/onboarding)
 
 ## Import Results
